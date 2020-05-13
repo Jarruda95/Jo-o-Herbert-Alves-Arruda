@@ -1,3 +1,10 @@
+/* reset do css */
+*  {
+margin: O;
+padding: 0;
+box-sizing: border-box;
+ }
+
 body {
     background-image: url(https://imagem.natelinha.uol.com.br/grande/frasedodia_56bacb113f1bab3668585b7763330d5c73b8e949.jpeg);
       background-size: auto 100vh;
